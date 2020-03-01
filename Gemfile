@@ -11,6 +11,7 @@ gem "i18n", ">= 0.6.6"
 gem 'sqlite3-ruby', :require => 'sqlite3'
 gem "mail", ">= 2.5.5"
 gem "activerecord", ">= 3.2.19"
+gem "activesupport", ">= 4.1.11"
 
 # Use unicorn as the web server
 # gem 'unicorn'
