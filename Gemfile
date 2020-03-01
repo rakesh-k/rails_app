@@ -9,6 +9,7 @@ gem "i18n", ">= 0.6.6"
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3-ruby', :require => 'sqlite3'
+gem "mail", ">= 2.5.5"
 
 # Use unicorn as the web server
 # gem 'unicorn'
