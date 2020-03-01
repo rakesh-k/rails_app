@@ -3,6 +3,7 @@ source 'http://rubygems.org'
 gem "rake", ">= 12.3.3"
 gem 'rails', '3.0.1'
 gem "actionmailer", ">= 3.2.15"
+gem "i18n", ">= 0.6.6"
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
